@@ -1,11 +1,10 @@
 # 6 Apps 1 Code
 
-Cross platform application that runs on mobile, web, and desktops
+Cross platform application that runs on mobile, web, and desktops. This application leverages service workers (if supported by browsers).
 
 ## Run mobile
 
 ```bash
-npm install
 ionic lab
 ```
 
