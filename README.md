@@ -17,7 +17,7 @@ In your browser visit localhost:8100
 
 ## Desktop
 
-Follow these instructions in the same top-level folder bda is located.
+Follow these instructions in the same top-level folder your Ionic application is located.
 
 ### Clone Electron Quick Start repository
 ```bash
